@@ -6,6 +6,17 @@ I often have directed reading project (DRP) ideas in number theory, suitable for
 
 During a DRP, you'll study a topic in number theory for two to three months and have weekly discussions with me. At the end of the reading period, you'll write a short report and present your readings at either your institute (in person) or the DRP symposium (online via Zoom).
 
+## Alumni
+
+- Fall 2023 (July 2023 to December 2023)
+  - Süeda Şentürk Avcı - Boğaziçi Üniversitesi, Türkiye (BS, 2024)
+    - [Dirichlet Class Number Formula for Imaginary Quadratic Fields](../alumni/drp-sueda.pdf)
+  - William Sean Hendarto Wihardja - Institut Teknologi Bandung, Indonesia (BS, 2024)
+    - [Higher Reciprocity Laws](../alumni/drp-william.pdf)
+  - [Mochammad Zulfikar Aditya](https://moch-zulfikarnj.github.io/) - Institut Teknologi Bandung, Indonesia (MS, 2020)
+    - [Quadratic Number Fields](../alumni/drp-zulfikar.pdf)
+
+
 
 ## FAQs
 
