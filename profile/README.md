@@ -17,12 +17,11 @@ During a DRP, you'll study a topic in number theory for two to three months and 
     - [Quadratic Number Fields](/alumni/drp-zulfikar.pdf)
 
 
-
 ## FAQs
 
 ### Why do a DRP?
 
-1. Get an opportunity to explore topics in number theory!
+1. Get an opportunity to explore topics in number theory! Also check out [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu), [Twoples](https://sites.google.com/view/twoples/home), and [DRP Türkiye](https://sites.google.com/view/drp-turkey).
 2. Learn about tools like LaTeX, Sage, and Git that can help one become a better researcher. To know more about their importance, connect with [code4math](https://code4math.org/).
 
 ### Why are you offering DRPs?
