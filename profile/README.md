@@ -8,6 +8,11 @@ During a DRP, you'll study a topic in number theory for two to three months and 
 
 ## Alumni
 
+- Spring 2024 (January 2024 to May 2024)
+  - Achuthkrishnan Manoj - St. Stephen's College, University of Delhi, India (BSc, 2024)
+    - [Riemann Hypothesis](https://web.archive.org/web/20230211034009/https://www.math.waikato.ac.nz/~kab/ERH/EquivRH.html)
+  - Muyuan Li - University of Arizona, USA (BS, 2027)
+    - [Permutation Puzzles](https://web.archive.org/web/20231206050054/http://www.sfu.ca/~jtmulhol/math302/index.html)
 - Fall 2023 (July 2023 to December 2023)
   - Süeda Şentürk Avcı - Boğaziçi Üniversitesi, Türkiye (BS, 2024)
     - [Dirichlet Class Number Formula for Imaginary Quadratic Fields](/alumni/drp-sueda.pdf)
@@ -15,7 +20,8 @@ During a DRP, you'll study a topic in number theory for two to three months and 
     - [Higher Reciprocity Laws](/alumni/drp-william.pdf)
   - [Mochammad Zulfikar Aditya](https://moch-zulfikarnj.github.io/) - Institut Teknologi Bandung, Indonesia (MS, 2020)
     - [Quadratic Number Fields](/alumni/drp-zulfikar.pdf)
-
+  - Hun Sivmeng -  Royal University of Phnom Penh, Cambodia (BS, 2024)
+    - [Binary Quadratic Forms](/alumni/drp-sivmeng.pdf)
 
 ## FAQs
 
