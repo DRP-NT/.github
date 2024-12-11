@@ -2,12 +2,15 @@ Hi there 👋
 
 [Gaurish Korpal](https://gkorpal.github.io/) here!
 
-I often have directed reading project (DRP) ideas in number theory, suitable for motivated undergraduates. Please email me if you wish to learn more about the potential (online/in-person) projects. 
+I often have directed reading project (DRP) ideas in number theory suitable for motivated undergraduates. Please email me to learn more about potential (online/in-person) projects. 
 
 During a DRP, you'll study a topic in number theory for two to three months and have weekly discussions with me. At the end of the reading period, you'll write a short report and present your readings at either your institute (in person) or the DRP symposium (online via Zoom).
 
 ## Alumni
 
+- Fall 2024 (August 2024 to December 2024)
+  - Aadi Kanwar - University of British Columbia, Canada (BS, 2027)
+    - [Investigating Variations in Ulam Spirals](https://aadikanwar.github.io/jekyll/update/2024/10/17/primes.html) 
 - Spring 2024 (January 2024 to May 2024)
   - Achuthkrishnan Manoj - St. Stephen's College, University of Delhi, India (BSc, 2024)
     - [Riemann Hypothesis](https://web.archive.org/web/20230211034009/https://www.math.waikato.ac.nz/~kab/ERH/EquivRH.html)
