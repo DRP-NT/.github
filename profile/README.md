@@ -17,7 +17,7 @@ During a DRP, you'll study a topic in number theory for two to three months and 
   - Muyuan Li - University of Arizona, USA (BS, 2027)
     - [Permutation Puzzles](https://web.archive.org/web/20231206050054/http://www.sfu.ca/~jtmulhol/math302/index.html)
 - Fall 2023 (July 2023 to December 2023)
-  - Süeda Şentürk Avcı - Boğaziçi Üniversitesi, Türkiye (BS, 2024)
+  - [Süeda Şentürk Avcı](https://suedasenturk.github.io/sueda.github.io/) - Boğaziçi Üniversitesi, Türkiye (BS, 2024)
     - [Dirichlet Class Number Formula for Imaginary Quadratic Fields](/alumni/drp-sueda.pdf)
   - William Sean Hendarto Wihardja - Institut Teknologi Bandung, Indonesia (BS, 2024)
     - [Higher Reciprocity Laws](/alumni/drp-william.pdf)
